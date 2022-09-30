@@ -1,4 +1,4 @@
-# amazon_clone
+# firebase signInUp page using email and password
 
 A new Flutter project.
 
